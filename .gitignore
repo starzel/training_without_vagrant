@@ -1,0 +1,8 @@
+.codeintel/
+.idea/
+bin/
+include/
+lib/
+local/
+parts/
+var/
