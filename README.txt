@@ -1,0 +1,1 @@
+This package is obsolete. Use the buildout at https://github.com/collective/training_buildout/ instead.
